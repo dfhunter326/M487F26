@@ -1,0 +1,65 @@
+ <section xml:id="los"><title>Learning Outcomes</title>
+  <!--This version of the learning outcomes is for Math 121 and is GTPathways compliant.-->
+  <paragraphs xml:id="clos">
+    <title>Course Learning Outcomes</title>
+    <p>
+      <ul>
+        <li>
+          <p>
+            Build a catalog of examples of groups displaying a wide variety of properties: finite versus infinite, cyclic versus more than one generator, abelian versus non abelian, permutation groups, and their subgroups; for each group within this catalog, students should be able to compute, describe structures, prove group properties, and apply these examples in other contexts.
+          </p>
+        </li>
+        <li>
+          <p>
+             Prove statements where an axiomatic definition appears as either a hypothesis or conclusion of an implication.
+          </p>
+        </li>
+        <li>
+          <p>
+            Communicate mathematics clearly using the appropriate terminology, notations and definitions, and use definitions to determine the structure of proofs.
+          </p>
+        </li>
+        <li>
+          <p>
+            Describe the concept of isomorphism and properties of isomorphic groups, provide examples of isomorphic groups, and prove that two groups are isomorphic.
+          </p>
+        </li>
+        <li>
+          <p>
+            Find and describe the cosets of a subgroup within a group, prove properties of cosets, and use properties of cosets to understand Lagrange’s Theorem; apply Lagrange’s theorem to describe how or which subgroups sit within a group.
+        </li>
+        <li>
+          <p> 
+            Identify normal subgroups, use properties of normal subgroups to determine factor groups.        
+        </li>
+        <li>
+          <p>
+            Describe the concept of homomorphism, prove properties of homomorphisms and the subgroups determined by a homomorphism, including applications of the First Isomorphism theorem to classify a homomorphism.
+        </li>
+      </ul>
+    </p>
+  </paragraphs>
+
+  <paragraphs xml:id="plos">
+    <title>Program Learning Outcomes</title>
+    <p>
+      <ul>
+        <li>
+          <p>
+            Write a correct mathematical proof.
+          </p>
+        </li>
+        <li>
+          <p>
+            Effective written and oral presentations of mathematical material.
+          </p>
+        </li>
+        <li>
+          <p>
+            Apply mathematical thinking in abstract settings.
+          </p>
+        </li>
+      </ul>
+    </p>
+  </paragraphs>
+</section>

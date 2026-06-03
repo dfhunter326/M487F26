@@ -5,35 +5,24 @@
       <dl>
         <li><title>Course Title</title>
           <p>
-            Course Title
+            Group Theory
           </p>
         </li>
         <li><title>Course Number</title>
           <p>
-            MATH XXX
+            MATH 487
           </p>
         </li>
         <li><title>Credits</title>
           <p>
-            n
+            3
           </p>
         </li>
         <li><title>Times and Rooms</title>
-        <!--e.g.-->
-        <ul>
-        <li>  
-          <em>Section 1 Time and Room(s):</em> 8:00-8:55am, MWF Noble 110, Th Noble 160
-        </li>
-        <li>
-            <em>Section 2 Time and Room(s):</em> 10:10-11:05am, MWF Noble 110, Th Berndt 340
-        </li>
-        <li>
-            <em>Section 3 Time and Room(s):</em> 11:25am-12:20pm, MWF Noble 110, Th Berndt 340
-        </li>
-        <li>
-            <em>Section 4 Time and Room(s):</em> 2:30-3:25pm, MWF Noble 110, Th Berndt 340
-        </li>
-      </ul>
+          <p>
+            8:00 am - 8:55 am, EBH 040
+          </p>
+       
     </li>
         <li><title>Instructors</title>
           <ul>
@@ -55,7 +44,7 @@
   <paragraphs xml:id="description">
     <title>Course Description</title>
     <p>
-      Enter the catalog description of the course here.
+      This course is an introduction to Group Theory.
     </p>
   </paragraphs>
 
@@ -67,11 +56,9 @@
   <paragraphs xml:id="course-materials">
     <title>Course Materials</title>
     <p>
-      Required Text: Enter the required textbook here, include ISBN.
+      {Contemporary Abstract Algebra, Joseph Gallian, 10th Ed. ISBN ????
     </p>
-    <p>
-      Other required software, suggested readings, course packs, et. should be included here.
-    </p>
+    
   </paragraphs>
 
   <paragraphs xml:id="office-hours">
